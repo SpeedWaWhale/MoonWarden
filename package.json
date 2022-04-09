@@ -1,0 +1,20 @@
+{
+  "name": "MoonWarden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "bcrypt": "^5.0.1",
+    "crypto-js": "^4.1.1",
+    "fast-password-entropy": "^1.1.1",
+    "ganache": "^7.0.4",
+    "web3": "^1.7.3"
+  }
+}
